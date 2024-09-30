@@ -1,2 +1,1 @@
-# SocialShorts
-Tracking social media content and performance
+Decred Video Proposal content.
