@@ -1,7 +1,7 @@
 # Video, shorts and Livestreams for 2024
 
 
-## Shorts:
+## Short form videos:
 * 23 Sept - Bison Wallet is changing wallet technology - https://x.com/decredproject/status/1838306555478896722 - 2219 views - 48 likes - 22 reposts
 * 21 Sept - Bison Wallet Litecoin short - https://x.com/exitusdcr/status/1837590053847208293 - 5815 views - 86 likes - 36 reposts
 * 20 Sept - Bison Relay v0.2.2 Release - https://x.com/decredproject/status/1837171485544267783 - 1900 views - 52 likes - 20 reposts
@@ -14,7 +14,7 @@
 * 23 March - The system is broken - https://x.com/exitusdcr/status/1771651036085653805 - 14k views - 59 likes - 27 reposts
 
 
-## Videos
+## Long form videos
 * 30 July - Privacy protects us from a multitude of predatory behaviours - https://x.com/decredproject/status/1818233782622667259 - 7823 - 63 likes - 24 reposts
 * 14 July - Decred Dev Update - https://x.com/exitusdcr/status/1812333200670392360 - 3100 views - 54 likes - 25 reposts
 * 24 June - Decred 2.0 - A new benchmark for decentralised networks - https://x.com/decredproject/status/1805331714006564945 - 5548 views - 67 likes - 33 reposts
