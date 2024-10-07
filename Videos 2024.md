@@ -57,6 +57,7 @@
 
 
 ## Decred Today:
+* 2 Oct - CryptoPower version 2 - Decred Today LIVE #9 - https://x.com/decredproject/status/1841417424345903337 - 1966 views - 36 likes - 17 views
 * 25 Sept - Too good to be true - Decred Today LIVE #8 - https://x.com/DecredSociety/status/1838942568262049855 - 677 views - 24 likes - 9 reposts
 * 16 Sept - Privacy as an unstoppable fundamental - Decred Today LIVE #7 - https://www.youtube.com/live/cEs17lH7tjU - 65 views - 7 reposts
 * 2 Sept - Crypto wallets are the new web browser - Decred Today LIVE #5 - https://www.youtube.com/live/jr3zoYuIb10 - 73 vies - 11 posts
