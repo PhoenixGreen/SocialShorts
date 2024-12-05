@@ -2,6 +2,11 @@
 
 
 ## Short form videos:
+* 1 Dec - No warning? No reason? - https://x.com/karamblez/status/1863038448635949411 - 4100 views - 19 likes - 6 reposts
+* 30 Nov - Bison Wallet: How to send USDC from Coinbase to Bison Wallet - https://x.com/decredproject/status/1862954166861144098 - 5000 views - 56 likes - 21 reposts
+* 26 Nov - Bison Wallet: Beyond Basics - https://x.com/decredproject/status/1861396318381322533 - 2800 views - 87 likes - 43 reposts
+* 17 Nov - Bison Wallet: Market Maker bots - https://x.com/decredproject/status/1858268905426374810 - 2500 views - 51 likes - 19 reposts
+* 18 Nov - Decentralized Exchanges aren't just tools - https://x.com/karamblez/status/1857907608352428392 - 5400 views - 49 likes - 15 reposts
 * 26 Oct - Setup @BisonWallet ready for trading in 6 steps - https://x.com/decredproject/status/1850180135044923808 - 1246 views - 34 likes - 20 reposts
 * 16 Oct - Download and install BisonWallet in 30 seconds - https://x.com/DecredSociety/status/1846617459606122505 - 2019 views - 38 likes - 20 reposts
 * 1 Oct - Bison Wallet - built 100% Open-Source by the Decred DAO - https://x.com/exitusdcr/status/1841197716774277535 - 2200 views - 56 likes - 30 reposts
@@ -17,7 +22,7 @@
 * 23 March - The system is broken - https://x.com/exitusdcr/status/1771651036085653805 - 14k views - 59 likes - 27 reposts
 
 
-## Long form videos
+## Long form videos:
 * 30 July - Privacy protects us from a multitude of predatory behaviours - https://x.com/decredproject/status/1818233782622667259 - 7823 - 63 likes - 24 reposts
 * 24 June - Decred 2.0 - A new benchmark for decentralised networks - https://x.com/decredproject/status/1805331714006564945 - 5548 views - 67 likes - 33 reposts
 * 25 April - Setup and run a Decred Full Node tutorial - https://x.com/exitusdcr/status/1783303789585354941 - 5900 views - 48 likes - 20 reposts
@@ -30,7 +35,8 @@
 * 19 Jan - Decred's Simplified Payment Verification - https://x.com/decredproject/status/1748450782049894692 - 4400 views - 52 likes - 17 reposts
 
 
-## Decred Dev Updates
+## Decred Dev Updates:
+* 22 Nov - Decred Dev Update - https://x.com/exitusdcr/status/1859823114932363268 - 2900 view - 51 likes - 21 reposts
 * 13 Oct - Decred Dev Update - https://x.com/exitusdcr/status/1845325482666971549 - 1546 views - 38 likes - 21 reposts
 * 14 July - Decred Dev Update - https://x.com/exitusdcr/status/1812333200670392360 - 3100 views - 54 likes - 25 reposts
 * 7 April - Decred Dev Update - https://x.com/exitusdcr/status/1776766270890795124 - 4700 views - 66 likes - 32 reposts
@@ -47,7 +53,7 @@
 * 3 Sept - Episode 4, Season 2, Outlaw Crypto Podcast - https://x.com/saucy_xmr/status/1830978775431159833 - 1700 views - 37 likes - 12 reposts
 
 
-## Twitter Spaces
+## Twitter Spaces:
 * 21 Sept - Bison Wallet Discussion and Giveaway! - https://x.com/exitusdcr/status/1837284169577062508 - 6300 views - 25 likes - 10 reposts
 * 30 Dec - 2024: The Year Crypto Goes Fully Mainstream? - https://x.com/decredproject/status/1741193837551161616 - 8400 views - 46 likes - 20 reposts
 
